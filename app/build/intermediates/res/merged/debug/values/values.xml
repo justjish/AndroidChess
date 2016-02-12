@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Black">#000</color>
+    <color name="DeepPurple">#5c2a7e</color>
+    <color name="MyDarkGreen">#0B6138</color>
+    <color name="MyGreen">#04B404</color>
+    <color name="MyIndigo">#38279a</color>
+    <color name="MyLightGreen">#F8FBEF</color>
+    <color name="White">#FFF</color>
+    <color name="Yellow">#ffff00</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="ai">AI</string>
+    <string name="app_name">Android Chess</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Ok</string>
+    <string name="done">Done</string>
+    <string name="draw">Draw</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="new_game">New Game</string>
+    <string name="next_move">Next Move</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="record_games">Record Games?</string>
+    <string name="record_games_button">Record Games</string>
+    <string name="resign">Resign</string>
+    <string name="save_game_hint">Enter title for this game</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_new_game">New Game</string>
+    <string name="title_activity_record_games">Record Games</string>
+    <string name="title_activity_replay_game">Replay Game</string>
+    <string name="title_activity_save_game">Save Game?</string>
+    <string name="title_activity_view_saved_games">View Saved Games</string>
+    <string name="undo">Undo</string>
+    <string name="view_saved_games">View Saved Games</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

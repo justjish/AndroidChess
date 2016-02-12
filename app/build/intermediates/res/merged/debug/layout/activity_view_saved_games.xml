@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <!-- Layout for song list -->
+
+    <Button
+        android:id="@+id/sortByDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:onClick="sortByDate"
+        android:text="Sort By Date" />
+
+    <Button
+        android:id="@+id/sortByTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:onClick="sortByTitle"
+        android:text="Sort By Title" />
+
+    <ListView
+        android:id="@+id/saved_games_list"
+        android:layout_width="wrap_content"
+        android:layout_height="350dp"
+        android:divider="@color/MyGreen"
+        android:dividerHeight="1dp"
+        android:orientation="vertical" />
+
+</LinearLayout>

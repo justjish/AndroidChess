@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\sujishpatel\\Google Drive\\Projects\\AndroidChess\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_game.xml",
+        "source": "C:\\Users\\sujishpatel\\Google Drive\\Projects\\AndroidChess\\app\\src\\main\\res\\layout\\activity_new_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\sujishpatel\\Google Drive\\Projects\\AndroidChess\\app\\build\\intermediates\\res\\merged\\debug\\layout\\games.xml",
+        "source": "C:\\Users\\sujishpatel\\Google Drive\\Projects\\AndroidChess\\app\\src\\main\\res\\layout\\games.xml"
+    },
+    {
+        "merged": "C:\\Users\\sujishpatel\\Google Drive\\Projects\\AndroidChess\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_replay_game.xml",
+        "source": "C:\\Users\\sujishpatel\\Google Drive\\Projects\\AndroidChess\\app\\src\\main\\res\\layout\\activity_replay_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\sujishpatel\\Google Drive\\Projects\\AndroidChess\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record_games.xml",
+        "source": "C:\\Users\\sujishpatel\\Google Drive\\Projects\\AndroidChess\\app\\src\\main\\res\\layout\\activity_record_games.xml"
+    },
+    {
+        "merged": "C:\\Users\\sujishpatel\\Google Drive\\Projects\\AndroidChess\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chessboard.xml",
+        "source": "C:\\Users\\sujishpatel\\Google Drive\\Projects\\AndroidChess\\app\\src\\main\\res\\layout\\chessboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\sujishpatel\\Google Drive\\Projects\\AndroidChess\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\sujishpatel\\Google Drive\\Projects\\AndroidChess\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\sujishpatel\\Google Drive\\Projects\\AndroidChess\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_saved_games.xml",
+        "source": "C:\\Users\\sujishpatel\\Google Drive\\Projects\\AndroidChess\\app\\src\\main\\res\\layout\\activity_view_saved_games.xml"
+    },
+    {
+        "merged": "C:\\Users\\sujishpatel\\Google Drive\\Projects\\AndroidChess\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_save_game.xml",
+        "source": "C:\\Users\\sujishpatel\\Google Drive\\Projects\\AndroidChess\\app\\src\\main\\res\\layout\\activity_save_game.xml"
+    }
+]
